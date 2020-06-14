@@ -5,7 +5,7 @@
 ## About the project
 A Java client that helps you to invoke **Tinder API** simulating a *real device* running on Android platform.
 
-Lightweight, easy to use, written using Java 13, and a built-in library HTTP client from a package *java.net.http*.
+Lightweight, easy to use, written using Java 13 and a built-in library HTTP client from a package *java.net.http*.
 
 ## Getting started  
 

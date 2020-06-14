@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="generate install id" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.github.tinder.api.util.InstallIdUtil" />
+    <module name="tinder-api" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

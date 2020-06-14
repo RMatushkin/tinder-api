@@ -1,0 +1,22 @@
+### IntelliJ IDEA ###
+*.iml
+/.idea/checkstyleidea.tmp/
+/.idea/codeStyles/
+/.idea/dataSources/
+/.idea/httpRequests/
+/.idea/libraries/
+/.idea/vcs.xml
+/.idea/checkstyle-idea.xml
+/.idea/workspace.xml
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/compiler.xml
+/.idea/uiDesigner.xml
+/.idea/jarRepositories.xml
+/.idea/dataSources.local.xml
+/.idea/dataSources.xml
+/.idea/kubernetes-settings.xml
+
+### Maven ###
+/target/

@@ -108,7 +108,7 @@ Written by Rostyslav Matushkin
 
 ## Contributing
 If you want to take the time to make this project better, 
-please open an new  [issue](https://github.com/RMatushkin/tinder-api/issues/new/choose) 
+please open a new  [issue](https://github.com/RMatushkin/tinder-api/issues/new/choose) 
 or a [pull request](https://github.com/RMatushkin/tinder-api/compare).  
 
 Here is a pretty well instruction on how to sniff the traffic 

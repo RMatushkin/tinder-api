@@ -1,4 +1,5 @@
 # Tinder API 
+![build](https://github.com/RMatushkin/tinder-api/workflows/build/badge.svg) 
 [![Licence](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/RMatushkin/tinder-api/blob/master/LICENSE)  
 ---
 

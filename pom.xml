@@ -6,7 +6,7 @@
 
     <name>${project.artifactId}</name>
     <description>Tinder API client for Java</description>
-    <url>https://github.com/RMatushkin/tinder-sdk</url>
+    <url>https://github.com/RMatushkin/tinder-api</url>
 
     <groupId>com.github.tinder</groupId>
     <artifactId>tinder-api</artifactId>
@@ -36,11 +36,6 @@
     </properties>
 
     <dependencies>
-        <dependency>
-            <groupId>com.github.mongobee</groupId>
-            <artifactId>mongobee</artifactId>
-            <version>0.13</version>
-        </dependency>
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>

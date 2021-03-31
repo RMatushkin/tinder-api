@@ -32,7 +32,7 @@
         <commons-collections4.version>4.4</commons-collections4.version>
         <urlbuilder.version>2.0.9</urlbuilder.version>
         <javax.servlet-api.version>4.0.1</javax.servlet-api.version>
-        <guava.version>28.1-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
     </properties>
 
     <dependencies>
